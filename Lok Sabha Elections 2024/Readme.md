@@ -1,6 +1,6 @@
 # 🗳️ Lok Sabha Elections 2024 Power BI Dashboard
 
-
+![Banner](Power_BI_projects/Lok Sabha Elections 2024/lok sabha logo.png)
 <img src="https://static.indiatvnews.com/election/election_2024/images/banner-text.png" alt="Description" width="1000px" height="200">
 
 
