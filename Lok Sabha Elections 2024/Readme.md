@@ -1,9 +1,6 @@
 # 🗳️ Lok Sabha Elections 2024 Power BI Dashboard
 
-![Sample Image](Images/lo.png)
-
 <img src="https://static.indiatvnews.com/election/election_2024/images/banner-text.png" alt="Description" width="1000px" height="200">
-
 
 ## 🌟 Overview
 This repository features an **interactive and insightful Power BI dashboard** analyzing the data and trends related to the **Lok Sabha Elections 2024**.  
